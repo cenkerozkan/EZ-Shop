@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/WebApplication3.csproj",
-      "projectName": "WebApplication3",
-      "projectPath": "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/WebApplication3.csproj",
+      "projectUniqueName": "/Users/issola/RiderProjects/EZ-Shop/MVC/MVC.csproj",
+      "projectName": "MVC",
+      "projectPath": "/Users/issola/RiderProjects/EZ-Shop/MVC/MVC.csproj",
       "packagesPath": "/Users/issola/.nuget/packages/",
-      "outputPath": "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/obj/",
+      "outputPath": "/Users/issola/RiderProjects/EZ-Shop/MVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/issola/.nuget/NuGet/NuGet.Config"
