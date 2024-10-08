@@ -25,7 +25,7 @@ public class Product
     // the default values will be 0.
     // Property
     public int Id { get; set; }
-    public string Name { get; set; } = "unknown";    // In C#, if a variable can be nullable, then you should add question marks to make it nullable.
+    public string Name { get; set; }                 // In C#, if a variable can be nullable, then you should add question marks to make it nullable.
     public double OldUnitPrice { get; set; }         // (Will not be used) Like in C++, in C# double is also precision dependent.
     public decimal UnitPrice { get; set; }           // This is why it is better to use decimal type
     public DateTime ExpirationDate { get; set; }
