@@ -1,3 +1,4 @@
+#nullable disable   // It allows you to remove question marks for nullable attributes
 using System.Reflection.Emit;
 using System.Runtime.InteropServices.JavaScript;
 
@@ -29,5 +30,6 @@ public class Product
     public decimal UnitPrice { get; set; }           // This is why it is better to use decimal type
     public DateTime ExpirationDate { get; set; }
     public int CategoryId { get; set; }
-    public int? StockAmount { get; set; }
+    public int StockAmount { get; set; }
+    public Category Category { get; set; }          // Is this something like composition??? 
 }
