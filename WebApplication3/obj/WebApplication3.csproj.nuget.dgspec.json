@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/issola/RiderProjects/WebApplication3/WebApplication3/WebApplication3.csproj": {}
+    "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/WebApplication3.csproj": {}
   },
   "projects": {
-    "/Users/issola/RiderProjects/WebApplication3/WebApplication3/WebApplication3.csproj": {
+    "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/issola/RiderProjects/WebApplication3/WebApplication3/WebApplication3.csproj",
+        "projectUniqueName": "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "/Users/issola/RiderProjects/WebApplication3/WebApplication3/WebApplication3.csproj",
+        "projectPath": "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/WebApplication3.csproj",
         "packagesPath": "/Users/issola/.nuget/packages/",
-        "outputPath": "/Users/issola/RiderProjects/WebApplication3/WebApplication3/obj/",
+        "outputPath": "/Users/issola/RiderProjects/EZ-Shop/WebApplication3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/issola/.nuget/NuGet/NuGet.Config"
