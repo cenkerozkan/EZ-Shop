@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:14  # Use the official PostgreSQL image, version 14
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: myuser           # Set the PostgreSQL user
+      POSTGRES_PASSWORD: mypassword   # Set the PostgreSQL password
+      POSTGRES_DB: EZShopDB           # Set the name of the database to EZShopDB
+    ports:
+      - "5432:5432"  # Expose PostgreSQL on port 5432
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Persist PostgreSQL data on a named volume
+
+volumes:
+  postgres_data:

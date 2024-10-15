@@ -4,6 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+builder.Services.AddDbContext<Db>()
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

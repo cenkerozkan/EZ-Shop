@@ -1,0 +1,13 @@
+/Users/issola/RiderProjects/EZ-Shop/BLL/bin/Debug/net8.0/BLL.deps.json
+/Users/issola/RiderProjects/EZ-Shop/BLL/bin/Debug/net8.0/BLL.dll
+/Users/issola/RiderProjects/EZ-Shop/BLL/bin/Debug/net8.0/BLL.pdb
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.csproj.AssemblyReference.cache
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.csproj.CoreCompileInputs.cache
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.sourcelink.json
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.dll
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/refint/BLL.dll
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/BLL.pdb
+/Users/issola/RiderProjects/EZ-Shop/BLL/obj/Debug/net8.0/ref/BLL.dll
